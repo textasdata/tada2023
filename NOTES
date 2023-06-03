@@ -1,0 +1,6 @@
+followed
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
+
+needed this to run "bundle exec jekyll serve"
+~/service/tada/tada2023 % bundle add webrick
+
