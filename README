@@ -1,0 +1,14 @@
+for tada2023.org website
+
+internal notes
+
+forking tada2022 didn't work for me
+created new repo and followed github documentation for jekyll setup
+attempted to pin down versions
+mostly worked except
+  had to do this for "jekyll serve": bundle add webrick
+used github web UI to specify domain name and troubleshoot dns
+using "main" branch bcs i find gh-pages branch confusing
+
+
+
