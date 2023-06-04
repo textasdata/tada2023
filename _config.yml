@@ -18,18 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TADA 2023
+title: TADA 2023 at UMass Amherst
 email: info@tada2023.org
 description:
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://https://tada2023.org/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username: 
 
 # Build settings
-theme: minima
+# theme: minima
+# plugins:
+#   - jekyll-feed
+
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
