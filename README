@@ -10,5 +10,9 @@ mostly worked except
 used github web UI to specify domain name and troubleshoot dns
 using "main" branch bcs i find gh-pages branch confusing
 
+for customization, i made copies of a few of the theme's style/layout files
+and edited in this repo. the "remote theme" thing seems to pull in other
+files by itself
+
 
 
