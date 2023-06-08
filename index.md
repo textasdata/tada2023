@@ -8,7 +8,7 @@ Conference: November 9-10, 2023 at University of Massachusetts Amherst
 
 The New Directions in Analyzing Text as Data (TADA) meeting is a leading forum for interdisciplinary research on the study of politics, society, and culture through computational analysis of documents. Recent advances in NLP have the potential to revolutionize how we study human society. But using these tools effectively, reliably, and equitably requires continuous dialog between experts across computational methods, social sciences, and the humanities. 
 
-TADA 2023 invites applications for research presentations on new work related to text-as-data methods and applications. Our programs from [past meetings](https://textasdata.github.io/events/) demonstrate this community's history of bringing together researchers, practitioners, and scholars from many fields.
+TADA 2023 invites applications for research presentations on new work related to text-as-data methods and applications. Our programs from [past meetings](https://textasdata.github.io/events/) (e.g. [2022](https://tada2022.org/)) demonstrate this community's history of bringing together researchers, practitioners, and scholars from many fields.
 
 ### Key Dates
 
@@ -18,7 +18,11 @@ TADA 2023 invites applications for research presentations on new work related to
 - Papers circulated to discussants: October 26th
 - Conference: November 9th and 10th
 
-Proposals are due August 4, and consist of a brief, 300-word abstract in text format rather than a full paper. TADA 2023 is a non-archival conference; there are no formal proceedings, and papers presented at the conference will not be distributed publicly by the conference. Presenters are expected to provide a paper to their discussant two weeks before the conference. We welcome any work, so long as it hasn't been previously presented at a TADA conference. We also welcome individuals to volunteer to serve as discussants.
+### Abstract submissions
+
+Proposals to present work are due August 4, and consist of a brief, 300-word abstract in text format rather than a full paper.  TADA 2023 is a non-archival conference; there are no formal proceedings, and papers presented at the conference will not be distributed publicly by the conference. Presenters are expected to provide a paper to their discussant two weeks before the conference. We welcome any work, so long as it hasn't been previously presented at a TADA conference. We also welcome individuals to volunteer to serve as discussants.
+
+**[Link for submissions.](https://docs.google.com/forms/d/e/1FAIpQLSfpsWgM44dfn3HRrQVq3uGXstBvRN6rbuO8gJLchMVYApcaww/viewform?usp=sf_link)**
 
 In addition to oral presentations and posters, TADA 2023 will have a doctoral consortium. We have limited funding to cover travel and lodging expenses for PhD students, who will be matched with experienced mentors from complementary fields to offer critiques to specific work and to provide guidance in how to do effective interdisciplinary work.
 
@@ -39,6 +43,10 @@ Conference Organizing Committee:
  - [Weiai Wayne Xu](https://curiositybits.cc/)
 
 The Program Committee includes the above organizers and members of the [Text as Data Association](https://textasdata.github.io/); full list to be announced on website.
+
+### Logistics
+
+For the conference itself, there is a block of rooms reserved for attendees on-campus at [Hotel UMass](https://hotelumass.com/). Details to be announced.
 
 
 
