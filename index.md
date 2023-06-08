@@ -18,11 +18,13 @@ TADA 2023 invites applications for research presentations on new work related to
 - Papers circulated to discussants: October 26th
 - Conference: November 9th and 10th
 
-### Abstract submissions
+### Abstract Submissions
 
 Proposals to present work are due August 4, and consist of a brief, 300-word abstract in text format rather than a full paper.  TADA 2023 is a non-archival conference; there are no formal proceedings, and papers presented at the conference will not be distributed publicly by the conference. Presenters are expected to provide a paper to their discussant two weeks before the conference. We welcome any work, so long as it hasn't been previously presented at a TADA conference. We also welcome individuals to volunteer to serve as discussants.
 
 **[Link for submissions.](https://docs.google.com/forms/d/e/1FAIpQLSfpsWgM44dfn3HRrQVq3uGXstBvRN6rbuO8gJLchMVYApcaww/viewform?usp=sf_link)**
+
+### Doctoral Consortium and Broadening Participation
 
 In addition to oral presentations and posters, TADA 2023 will have a doctoral consortium. We have limited funding to cover travel and lodging expenses for PhD students, who will be matched with experienced mentors from complementary fields to offer critiques to specific work and to provide guidance in how to do effective interdisciplinary work.
 
