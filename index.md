@@ -46,6 +46,8 @@ Conference Organizing Committee:
 
 The Program Committee includes the above organizers and members of the [Text as Data Association](https://textasdata.github.io/); full list to be announced on website.
 
+TADA 2023 is gratefully supported by [UMass CSSI](https://www.cssi.umass.edu/) and the National Science Foundation ([1845576](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1845576)).
+
 ### Logistics
 
 For the conference itself, there is a block of rooms reserved for attendees on-campus at [Hotel UMass](https://hotelumass.com/). Details to be announced.
