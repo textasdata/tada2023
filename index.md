@@ -43,6 +43,7 @@ Conference Organizing Committee:
  - [Katherine Keith](https://kakeith.github.io/)
  - [Justin Gross](http://justinhgross.com/)
  - [Weiai Wayne Xu](https://curiositybits.cc/)
+ - [Kelsey Shoub](https://www.kelseyshoub.com/)
 
 The Program Committee includes the above organizers and members of the [Text as Data Association](https://textasdata.github.io/); full list to be announced on website.
 
