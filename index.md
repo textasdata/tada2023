@@ -42,6 +42,7 @@ Conference Organizing Committee:
  - [Douglas Rice](http://douglas-rice.net/) (drrice@umass.edu)
  - [Katherine Keith](https://kakeith.github.io/)
  - [Justin Gross](http://justinhgross.com/)
+ - [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)
  - [Kelsey Shoub](https://www.kelseyshoub.com/)
  - [Laure Thompson](https://people.cs.umass.edu/~laurejt/)
  - [Weiai Wayne Xu](https://curiositybits.cc/)
