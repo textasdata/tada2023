@@ -4,7 +4,7 @@ title: "TADA 2023: New Directions in Analyzing Text as Data"
 
 Conference: November 9-10, 2023 at University of Massachusetts Amherst
 
-<span style="font-size: 120%;">**[Submit abstracts at this link.](https://docs.google.com/forms/d/e/1FAIpQLSfpsWgM44dfn3HRrQVq3uGXstBvRN6rbuO8gJLchMVYApcaww/viewform?usp=sf_link)** Submissions due **August 4**.</span>
+<span style="font-size: 120%;">**[Submit abstracts at this link.](https://docs.google.com/forms/d/e/1FAIpQLSfpsWgM44dfn3HRrQVq3uGXstBvRN6rbuO8gJLchMVYApcaww/viewform?usp=sf_link)** Submissions due <s>August 4</s> **August 11**.</span>  (Deadline extended!)
 
 The New Directions in Analyzing Text as Data (TADA) meeting is a leading forum for interdisciplinary research on the study of politics, society, and culture through computational analysis of documents. Recent advances in NLP have the potential to revolutionize how we study human society. But using these tools effectively, reliably, and equitably requires continuous dialog between experts across computational methods, social sciences, and the humanities. 
 
@@ -12,7 +12,7 @@ TADA 2023 invites applications for research presentations on new work related to
 
 ### Key Dates
 
-- Submission deadline: August 4th
+- Submission deadline: **August 11th** (extended; orginally was Aug. 4)
 - Notification of acceptance: August 28th
 - Registration opens: September 5th
 - Papers circulated to discussants: October 26th
@@ -20,7 +20,7 @@ TADA 2023 invites applications for research presentations on new work related to
 
 ### Abstract Submissions
 
-Proposals to present work are due August 4, and consist of a brief, 300-word abstract in text format rather than a full paper.  TADA 2023 is a non-archival conference; there are no formal proceedings, and papers presented at the conference will not be distributed publicly by the conference. Presenters are expected to provide a paper to their discussant two weeks before the conference. We welcome any work, so long as it hasn't been previously presented at a TADA conference. We also welcome individuals to volunteer to serve as discussants.
+Proposals to present work are due **August 11**, and consist of a brief, 300-word abstract in text format rather than a full paper.  TADA 2023 is a non-archival conference; there are no formal proceedings, and papers presented at the conference will not be distributed publicly by the conference. Presenters are expected to provide a paper to their discussant two weeks before the conference. We welcome any work, so long as it hasn't been previously presented at a TADA conference. We also welcome individuals to volunteer to serve as discussants.
 
 **[Link for submissions.](https://docs.google.com/forms/d/e/1FAIpQLSfpsWgM44dfn3HRrQVq3uGXstBvRN6rbuO8gJLchMVYApcaww/viewform?usp=sf_link)**
 
