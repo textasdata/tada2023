@@ -28,6 +28,8 @@ Proposals to present work are due **August 11**, and consist of a brief, 300-wor
 
 In addition to oral presentations and posters, TADA 2023 will have a doctoral consortium. We have limited funding to cover travel and lodging expenses for PhD students, who will be matched with experienced mentors from complementary fields to offer critiques to specific work and to provide guidance in how to do effective interdisciplinary work.
 
+Additionally, there may be funding available to facilitate participation of attendees for whom it would be a financial burden.  If you would like to be considered for a registration waiver and/or travel funding, please indicate this on the submission.
+
 Diversity leads to stronger science. We actively seek, welcome, and encourage people with diverse backgrounds, experiences, and identities to apply and attend. While many participants have attended TADA for years, we also eagerly welcome new researchers!
 
 The conference organizers are committed to providing accessible and inclusive accommodations for participants. If you have any specific requirements or concerns, please reach out to the organizing committee in advance, and we will make every effort to accommodate your needs.
