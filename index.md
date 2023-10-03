@@ -6,8 +6,40 @@ Conference: November 9-10, 2023 at University of Massachusetts Amherst
 
 The New Directions in Analyzing Text as Data (TADA) meeting is a leading forum for interdisciplinary research on the study of politics, society, and culture through computational analysis of documents. Recent advances in NLP have the potential to revolutionize how we study human society. But using these tools effectively, reliably, and equitably requires continuous dialog between experts across computational methods, social sciences, and the humanities. 
 
-TADA 2023 invites applications for research presentations on new work related to text-as-data methods and applications. Our programs from [past meetings](https://textasdata.github.io/events/) (e.g. [2022](https://tada2022.org/)) demonstrate this community's history of bringing together researchers, practitioners, and scholars from many fields.
 
+
+### Registration
+
+Registration is now open, at <a href="https://umass.irisregistration.com/Form/TADA">this link</a>.
+
+### Schedule
+
+Day 1: Thursday, November 9th
+
+| 8:00	| Breakfast
+| 9:00	| Opening Remarks
+| 9:15	| Panel 1
+| 10:30	| Break 
+| 10:45	| Roundtable
+| 12:00	| Lunch, including Doctoral Consortium mentoring
+| 1:00	| Panel 2
+| 2:15	| Poster Session 1
+| 3:15	| Break
+| 3:30	| Panel 3
+| 4:45	| End of the day (dinner on your own)
+
+
+Day 2: Friday, November 10th
+
+| 8:00	| Breakfast
+| 9:00	| Panel 4
+| 10:15	| Poster Session 2
+| 11:15	| Break 
+| 11:30	| Panel 5
+| 12:45	| Lunch
+
+
+<!--
 ### Key Dates
 
 - Submission deadline: **August 11th** (extended; orginally was Aug. 4)
@@ -15,12 +47,15 @@ TADA 2023 invites applications for research presentations on new work related to
 - Registration opens: September 5th
 - Papers circulated to discussants: October 26th
 - Conference: November 9th and 10th
+-->
 
 ### Abstract Submissions
 
-Proposals to present work are due **August 11**, and consist of a brief, 300-word abstract in text format rather than a full paper.  TADA 2023 is a non-archival conference; there are no formal proceedings, and papers presented at the conference will not be distributed publicly by the conference. Presenters are expected to provide a paper to their discussant two weeks before the conference. We welcome any work, so long as it hasn't been previously presented at a TADA conference. We also welcome individuals to volunteer to serve as discussants.
+TADA 2023 invites applications for research presentations on new work related to text-as-data methods and applications. Our programs from [past meetings](https://textasdata.github.io/events/) (e.g. [2022](https://tada2022.org/)) demonstrate this community's history of bringing together researchers, practitioners, and scholars from many fields.
 
-**[Link for submissions.](https://docs.google.com/forms/d/e/1FAIpQLSfpsWgM44dfn3HRrQVq3uGXstBvRN6rbuO8gJLchMVYApcaww/viewform?usp=sf_link)**
+Proposals to present work are due August 11, and consist of a brief, 300-word abstract in text format rather than a full paper.  TADA 2023 is a non-archival conference; there are no formal proceedings, and papers presented at the conference will not be distributed publicly by the conference. Presenters are expected to provide a paper to their discussant two weeks before the conference. We welcome any work, so long as it hasn't been previously presented at a TADA conference. We also welcome individuals to volunteer to serve as discussants.
+
+[Link for submissions (inactive).](https://docs.google.com/forms/d/e/1FAIpQLSfpsWgM44dfn3HRrQVq3uGXstBvRN6rbuO8gJLchMVYApcaww/viewform?usp=sf_link)
 
 ### Doctoral Consortium and Broadening Participation
 
@@ -59,10 +94,32 @@ committee, then discussed and selected to build the program.
 
 TADA 2023 is gratefully supported by the [UMass Computational Social Science Institute (CSSI)](https://www.cssi.umass.edu/) and the National Science Foundation ([1845576](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1845576)).
 
+
+
 ### Logistics
 
-For the conference itself, there is a block of rooms reserved for attendees on-campus at [Hotel UMass](https://hotelumass.com/). Details to be announced.
+#### On Campus
 
+Conference events will be held in the Commonwealth Honors College Events Hall at UMass Amherst.
+On Google Maps, look up [Roots Café, 157 Commonwealth Ave](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9).
+
+
+#### Lodging
+There is a block of rooms reserved for attendees on-campus at [Hotel UMass](https://hotelumass.com/); see information on the registration page.
+
+Other local hotels include:
+- [Courtyard by Marriott Hadley Amherst](https://www.marriott.com/en-us/hotels/bdlhd-courtyard-hadley-amherst/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0); 423 Russell St., Hadley, MA 01035; (413) 256-5424.  Approximate Distance: 3 miles (6 minutes by car).
+- [Homewood Suites by Hilton Hadley Amherst](https://www.hilton.com/en/hotels/bdlhahw-homewood-suites-hadley-amherst/?SEO_id=GMB-AMER-HW-BDLHAHW&y_source=1_MTIyMDc5NzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D); 340 Russell St., Hadley, MA 01035; (413) 387-0583.  Approximate Distance: 3.5 miles (7 minutes by car).
+- [Comfort Inn & Suites](https://www.choicehotels.com/massachusetts/hadley/comfort-inn-hotels/ma263?mc=llgoxxpx); 400 Russell St., Hadley, MA 01035; (413) 341-1556.  Approximate Distance: 3 miles (6 minutes by car).
+- [Inn on Boltwood](https://www.innonboltwood.com/); 30 Boltwood Ave., Amherst, MA 01002; (413) 256-8200.  Approximate Distance: 1.7 miles (7 minutes by car).
+
+
+#### Travel
+
+ - If you are looking at airplane tickets, we strongly recommend Bradley (BDL), the airport at Hartford, Connecticut, which is much closer than Boston Logan (BOS).  
+ - Rideshare apps are available in the area, though some users report there can be delays.
+ - Buses ([Greyhound](https://www.greyhound.com/), [Peter Pan](https://peterpanbus.com/)) and trains ([Amtrak](https://www.amtrak.com/); see [Trains In The Valley](https://trainsinthevalley.org/)) may be an option, especially within the Northeast.  Northampton, MA and Springfield, MA are the closest train stations.
+ - For more details, including shuttle and other services, see [this page](https://www.cics.umass.edu/grads/arriving-amherst).
 
 
 
