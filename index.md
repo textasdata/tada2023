@@ -14,6 +14,9 @@ Registration is now open, at <a href="https://umass.irisregistration.com/Form/TA
 
 ### Schedule
 
+Conference events will be held in the Commonwealth Honors College Events Hall at UMass Amherst.
+It is in the same building as Roots Café, 157 Commonwealth Ave; see: [Google Maps link](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9).
+
 Day 1: Thursday, November 9th
 
 | 8:00	| Breakfast
@@ -38,6 +41,7 @@ Day 2: Friday, November 10th
 | 11:30	| Panel 5
 | 12:45	| Lunch
 
+The main program ends at lunch; we may announce optional afternoon activities.
 
 <!--
 ### Key Dates
@@ -101,7 +105,7 @@ TADA 2023 is gratefully supported by the [UMass Computational Social Science Ins
 #### On Campus
 
 Conference events will be held in the Commonwealth Honors College Events Hall at UMass Amherst.
-On Google Maps, look up [Roots Café, 157 Commonwealth Ave](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9).
+It is in the same building as Roots Café, 157 Commonwealth Ave; see: [Google Maps link](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9).
 
 
 #### Lodging
