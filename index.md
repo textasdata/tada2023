@@ -124,8 +124,8 @@ Other local hotels include:
 
  - If you are looking at airplane tickets, we strongly recommend Bradley (BDL), the airport at Hartford, Connecticut, which is much closer than Boston Logan (BOS).  
  - Rideshare apps are available in the area, though some users report there can be delays.
- - Buses ([Greyhound](https://www.greyhound.com/), [Peter Pan](https://peterpanbus.com/)) and trains ([Amtrak](https://www.amtrak.com/); see [Trains In The Valley](https://trainsinthevalley.org/)) may be an option, especially within the Northeast.  Northampton, MA and Springfield, MA are the closest train stations.
- - For more details, including shuttle and other services, see [this page](https://www.cics.umass.edu/grads/arriving-amherst).
+ - Buses ([Greyhound](https://www.greyhound.com/), [Peter Pan](https://peterpanbus.com/)) and trains ([Amtrak](https://www.amtrak.com/); see also [Trains In The Valley](https://trainsinthevalley.org/travel-options/)) may be an option, especially within the Northeast.  Northampton, MA and Springfield, MA are the closest train stations.
+ - For more details, including shuttles and many other services, see [this CICS page, "Arriving in Amherst"](https://www.cics.umass.edu/grads/arriving-amherst).
 
 
 
