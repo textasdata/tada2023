@@ -100,10 +100,10 @@ committee, then discussed and selected to build the program.
 
 TADA 2023 is gratefully supported by 
 the National Science Foundation ([1845576](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1845576)),
-and at UMass, the 
-[Computational Social Science Institute (CSSI)](https://www.cssi.umass.edu/)
+and at UMass,
+the [Computational Social Science Institute (CSSI)](https://www.cssi.umass.edu/)
 and 
-[Data Analytics and Computational Social Science (DACSS)](https://www.umass.edu/social-sciences/academics/dacss) program.
+the [Data Analytics and Computational Social Science (DACSS)](https://www.umass.edu/social-sciences/academics/dacss) program.
 
 
 
