@@ -55,6 +55,15 @@ The main program ends at lunch; we may announce optional afternoon activities.
 - Conference: November 9th and 10th
 -->
 
+### Poster presentation information
+
+If your paper is being presented as a poster, there is no discussant and no paper draft needed (except, optionally, for doctoral consortium participants).
+
+Poster format: We recommend posters be no larger than 36 inches tall by 48 inches.
+
+If you have a scheduling constraint for when to present, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdvPC3tNYyoRNL_FjVsr59e1MafcDTj_SiG8Hn_3WxlvoFyZQ/viewform?usp=sf_link).
+
+
 ### Abstract Submissions
 
 TADA 2023 invites applications for research presentations on new work related to text-as-data methods and applications. Our programs from [past meetings](https://textasdata.github.io/events/) (e.g. [2022](https://tada2022.org/)) demonstrate this community's history of bringing together researchers, practitioners, and scholars from many fields.
