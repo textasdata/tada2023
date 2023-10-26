@@ -59,7 +59,7 @@ The main program ends at lunch; we may announce optional afternoon activities.
 
 If your paper is being presented as a poster, there is no discussant and no paper draft needed (except, optionally, for doctoral consortium participants).
 
-Poster format: We recommend posters be no larger than 36 inches tall by 48 inches.
+Poster format: We recommend posters be no larger than 36 inches tall by 48 inches wide.
 
 If you have a scheduling constraint for when to present, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdvPC3tNYyoRNL_FjVsr59e1MafcDTj_SiG8Hn_3WxlvoFyZQ/viewform?usp=sf_link).
 
