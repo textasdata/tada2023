@@ -15,11 +15,18 @@ Please register at [this link](https://umass.irisregistration.com/Form/TADA).
 
 If you're at UMass and want to informally attend, we can let you sign up through a different process.  Ask us for a pointer if you haven't received it.
 
-### Schedule
+### Location
 
-Conference events will be held in the Commonwealth Honors College Events Hall at UMass Amherst.
-Use directions to [Roots Café, 157 Commonwealth Ave (Google Maps link)](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9);
-the room is next to the cafe.
+Conference events will be held at UMass Amherst, specifically at:
+
+1. The Commonwealth Honors College Events Hall.  On Google Maps, use [Roots Café, 157 Commonwealth Ave](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9).  It's a large room next to the cafe.  Most sessions, including all talks, will be held here.
+2. The Campus Center Hotel (a.k.a. Hotel UMass), specifically the Amherst Room on the 10th floor.  Google Maps: [Campus Center](https://maps.app.goo.gl/AmKDqGrUH8gP2cre6).  Poster sessions, along with the Thursday afternoon cash bar and and Friday breakfast, will be held here.
+
+They're a 6 minute walk apart. [Walking directions](https://goo.gl/maps/BuBRHGKQNfsCNnvE6):
+
+<center><a href="https://goo.gl/maps/BuBRHGKQNfsCNnvE6"><img style="max-width:400px; border: 1px solid blue;" src="assets/Screen Shot 2023-10-31 at 12.20.30 PM.png"/></a></center>
+
+### Schedule
 
 ***Schedule is being changed - check back for updates and full program***
 
