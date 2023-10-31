@@ -10,14 +10,18 @@ The New Directions in Analyzing Text as Data (TADA) meeting is a leading forum f
 
 ### Registration
 
-Registration is currently open for presenters.
-General public registration will open soon.
+We have a limited number of slots available for general public registration.
+Please register at [this link](https://umass.irisregistration.com/Form/TADA).
+
+If you're at UMass and want to informally attend, we can let you sign up through a different process.  Ask us for a pointer if you haven't received it.
 
 ### Schedule
 
 Conference events will be held in the Commonwealth Honors College Events Hall at UMass Amherst.
 Use directions to [Roots Café, 157 Commonwealth Ave (Google Maps link)](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9);
 the room is next to the cafe.
+
+***Schedule is being changed - check back for updates and full program***
 
 Day 1: Thursday, November 9th
 
@@ -43,7 +47,7 @@ Day 2: Friday, November 10th
 | 11:30	| Panel 5
 | 12:45	| Lunch
 
-The main program ends at lunch; we may announce optional afternoon activities.
+The main program ends at lunch.  The Text as Data Association's board will have a meeting after lunch.
 
 <!--
 ### Key Dates
