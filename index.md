@@ -47,7 +47,8 @@ Day 2: Friday, November 10th
 | 11:30	| Panel 5
 | 12:45	| Lunch
 
-The main program ends at lunch.  The Text as Data Association's board will have a meeting after lunch.
+The main program ends at lunch.  
+
 
 <!--
 ### Key Dates
