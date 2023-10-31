@@ -26,28 +26,32 @@ They're a 6 minute walk apart. [Walking directions](https://goo.gl/maps/BuBRHGKQ
 
 <center><a href="https://goo.gl/maps/BuBRHGKQNfsCNnvE6"><img style="max-width:400px; border: 1px solid blue;" src="assets/Screen Shot 2023-10-31 at 12.20.30 PM.png"/></a></center>
 
-### Schedule
+### Schedule and Program
 
-***Schedule is being changed - check back for updates and full program***
+<a style="font-size:110%; font-weight: bold" href="assets/program.pdf">Link: Full program (pdf)</a>
+
+High-level schedule:
 
 Day 1: Thursday, November 9th
 
-| 8:00	| Breakfast
-| 9:00	| Opening Remarks
-| 9:15	| Panel 1
-| 10:30	| Break 
-| 10:45	| Roundtable
-| 12:00	| Lunch, including Doctoral Consortium mentoring
-| 1:00	| Panel 2
-| 2:15	| Poster Session 1
-| 3:15	| Break
-| 3:30	| Panel 3
-| 4:45	| End of the day (dinner on your own)
+| *Time* | *Event* | *Location* |
+| 8:00	| Breakfast | CHC Events Hall
+| 9:00	| Opening Remarks | CHC Events Hall
+| 9:15	| Panel 1 | CHC Events Hall
+| 10:30	| Break | CHC Events Hall
+| 10:45	| Roundtable | CHC Events Hall
+| 12:00	| Lunch, including Doctoral Consortium mentoring | CHC Events Hall
+| 1:00	| Panel 2 | CHC Events Hall
+| 2:15	| Break | CHC Events Hall
+| 2:30	| Panel 3 | CHC Events Hall
+| 3:45	| Break and move
+| 4:15 | Poster Session I | Amherst Room, Campus Center
+| 5:15	| End of the day |
 
 
 Day 2: Friday, November 10th
 
-| 8:00	| Breakfast
+| 8:00	| Breakfast | Amherst Room, Campus Center
 | 9:00	| Panel 4
 | 10:15	| Poster Session 2
 | 11:15	| Break 
