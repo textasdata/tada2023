@@ -19,8 +19,8 @@ If you're at UMass and want to informally attend, we can let you sign up through
 
 Conference events will be held at UMass Amherst, specifically at:
 
-1. The Commonwealth Honors College Events Hall.  On Google Maps, use [Roots Café, 157 Commonwealth Ave](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9).  It's a large room next to the cafe.  Most sessions, including all talks, will be held here.
-2. The Campus Center Hotel (a.k.a. Hotel UMass), specifically the Amherst Room on the 10th floor.  Google Maps: [Campus Center](https://maps.app.goo.gl/AmKDqGrUH8gP2cre6).  Poster sessions, along with the Thursday afternoon cash bar and and Friday breakfast, will be held here.
+1. The Commonwealth Honors College Events Hall.  [Map link: Roots Café, 157 Commonwealth Ave](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9).  It's a large room next to Roots Cafe.  Most sessions, including all talks, will be held here.
+2. The Campus Center Hotel (a.k.a. Hotel UMass), specifically the Amherst Room on the 10th floor.  [Map link: Campus Center](https://maps.app.goo.gl/AmKDqGrUH8gP2cre6).  Poster sessions, along with the Thursday afternoon cash bar and and Friday breakfast, will be held here.
 
 They're a 6 minute walk apart. [Walking directions](https://goo.gl/maps/BuBRHGKQNfsCNnvE6):
 
