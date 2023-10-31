@@ -19,7 +19,7 @@ If you're at UMass and want to informally attend, we can let you sign up through
 
 Conference events will be held at UMass Amherst, specifically at:
 
-1. The Commonwealth Honors College Events Hall.  [Map link: Roots Café, 157 Commonwealth Ave](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9).  It's a large room next to Roots Cafe.  Most sessions, including all talks, will be held here.
+1. The Commonwealth Honors College Events Hall.  [Map link: Roots Café, 157 Commonwealth Ave](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9).  It's a large room next to Roots Cafe.  Most sessions, including all talks, will be held here.   (Note there are multiple buildings called "CHC"; go to the one that has Roots Cafe in it.)
 2. The Campus Center Hotel (a.k.a. Hotel UMass), specifically the Amherst Room on the 10th floor.  [Map link: Campus Center](https://maps.app.goo.gl/AmKDqGrUH8gP2cre6).  Poster sessions, along with the Thursday afternoon cash bar and and Friday breakfast, will be held here.
 
 They're a 6 minute walk apart. [Walking directions](https://goo.gl/maps/BuBRHGKQNfsCNnvE6):
@@ -30,9 +30,7 @@ They're a 6 minute walk apart. [Walking directions](https://goo.gl/maps/BuBRHGKQ
 
 <a style="font-size:110%; font-weight: bold" href="assets/program.pdf">Link: Full program (pdf)</a>
 
-High-level schedule:
-
-Day 1: Thursday, November 9th
+#### Day 1: Thursday, November 9th
 
 | *Time* | *Event* | *Location* |
 | 8:00	| Breakfast | CHC Events Hall
@@ -40,23 +38,25 @@ Day 1: Thursday, November 9th
 | 9:15	| Panel 1 | CHC Events Hall
 | 10:30	| Break | CHC Events Hall
 | 10:45	| Roundtable | CHC Events Hall
-| 12:00	| Lunch, including Doctoral Consortium mentoring | CHC Events Hall
+| 12:00	| Lunch, including DC mentoring | CHC Events Hall
 | 1:00	| Panel 2 | CHC Events Hall
 | 2:15	| Break | CHC Events Hall
 | 2:30	| Panel 3 | CHC Events Hall
 | 3:45	| Break and move
-| 4:15 | Poster Session I | Amherst Room, Campus Center
+| 4:15 | Poster Session 1 | Amherst Room, Campus Center
 | 5:15	| End of the day |
 
 
-Day 2: Friday, November 10th
+#### Day 2: Friday, November 10th
 
-| 8:00	| Breakfast | Amherst Room, Campus Center
-| 9:00	| Panel 4
-| 10:15	| Poster Session 2
-| 11:15	| Break 
-| 11:30	| Panel 5
-| 12:45	| Lunch
+| *Time* | *Event* | *Location* |
+| 8:30	| Breakfast | Amherst Room, Campus Center
+| 8:45	| Poster Session 2 | Amherst Room, Campus Center
+| 9:45 | Break and move |
+| 10:15 | Panel 4 | CHC Events Hall
+| 11:30	| Break | CHC Events Hall
+| 11:45	| Panel 5 | CHC Events Hall
+|  1:00 | Closing Remarks & Lunch | CHC Events Hall
 
 The main program ends at lunch.  
 
@@ -148,7 +148,7 @@ Other local hotels include:
 
  - If you are looking at airplane tickets, we strongly recommend Bradley (BDL), the airport at Hartford, Connecticut, which is much closer than Boston Logan (BOS).  
  - Rideshare apps are available in the area, though some users report there can be delays.
- - Buses ([Greyhound](https://www.greyhound.com/), [Peter Pan](https://peterpanbus.com/)) and trains ([Amtrak](https://www.amtrak.com/); see also [Trains In The Valley](https://trainsinthevalley.org/travel-options/)) may be an option, especially within the Northeast.  Northampton, MA and Springfield, MA are the closest train stations.
+ - Buses ([Greyhound](https://www.greyhound.com/), [Peter Pan](https://peterpanbus.com/)) and trains ([Amtrak](https://www.amtrak.com/); see also [Trains In The Valley](https://trainsinthevalley.org/travel-options/)) may be an option, especially within the Northeast.  Northampton, MA and Springfield, MA are the closest train stations. Train connectivity is poor from Boston, but good from New York.
  - For more details, including shuttles and many other services, see [this CICS page, "Getting to Amherst"](https://www.cics.umass.edu/grads/arriving-amherst).
 
 
