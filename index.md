@@ -130,12 +130,6 @@ and the [Manning College of Information & Computer Sciences](https://www.cics.um
 
 ### Logistics
 
-#### On Campus
-
-Conference events will be held in the Commonwealth Honors College Events Hall at UMass Amherst.
-Use directions to [Roots Café, 157 Commonwealth Ave (Google Maps link)](https://maps.app.goo.gl/axc9LzLyJ7DMM8QY9);
-the room is next to the cafe.
-
 #### Lodging
 There is a block of rooms reserved for attendees on-campus at [Hotel UMass](https://hotelumass.com/); see information on the registration page.
 
