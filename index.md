@@ -24,7 +24,7 @@ Conference events will be held at UMass Amherst, specifically at:
 
 They're a 6 minute walk apart. [Walking directions](https://goo.gl/maps/BuBRHGKQNfsCNnvE6):
 
-<center><a href="https://goo.gl/maps/BuBRHGKQNfsCNnvE6"><img style="max-width:400px; border: 1px solid blue;" src="assets/Screen Shot 2023-10-31 at 12.20.30 PM.png"/></a></center>
+<center><a href="https://goo.gl/maps/BuBRHGKQNfsCNnvE6"><img style="max-width:400px; border: 1px solid blue;" src="assets/map_edited.png"/></a></center>
 
 ### Schedule and Program
 
