@@ -103,22 +103,7 @@ The conference organizers are committed to providing accessible and inclusive ac
 Send questions for organizers at: <a href="mailto:info@tada2023.org">info@tada2023.org</a> (currently goes to Brendan and Doug).
 
 Organizing Committee / Program Committee:
-
- - [Amber Boydstun](http://www.amber-boydstun.com/)
- - [Michael Colaresi](http://michaelcolaresi.com/)
- - [Justin Grimmer](https://www.justingrimmer.org/)
- - [Justin Gross](http://justinhgross.com/)
- - [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/)
- - [Katherine Keith](https://kakeith.github.io/)
- - [David Mimno](https://mimno.infosci.cornell.edu/)
- - [Brendan O’Connor](http://brenocon.com/)
- - [Philip Resnik](http://users.umiacs.umd.edu/~resnik/)
- - [Douglas Rice](http://douglas-rice.net/)
- - [Kelsey Shoub](https://www.kelseyshoub.com/)
- - [Brandon Stewart](https://scholar.princeton.edu/bstewart)
- - [Laure Thompson](https://people.cs.umass.edu/~laurejt/)
- - [Weiai Wayne Xu](https://curiositybits.cc/)
- - [Leah Windsor](https://www.thewordwitch.dev/home)
+[Amber Boydstun](http://www.amber-boydstun.com/), [Michael Colaresi](http://michaelcolaresi.com/), [Justin Grimmer](https://www.justingrimmer.org/), [Justin Gross](http://justinhgross.com/), [Mohit Iyyer](https://people.cs.umass.edu/~miyyer/), [Katherine Keith](https://kakeith.github.io/), [David Mimno](https://mimno.infosci.cornell.edu/), [Brendan O’Connor](http://brenocon.com/), [Philip Resnik](http://users.umiacs.umd.edu/~resnik/), [Douglas Rice](http://douglas-rice.net/), [Kelsey Shoub](https://www.kelseyshoub.com/), [Brandon Stewart](https://scholar.princeton.edu/bstewart), [Laure Thompson](https://people.cs.umass.edu/~laurejt/), [Weiai Wayne Xu](https://curiositybits.cc/), [Leah Windsor](https://www.thewordwitch.dev/home)
 
 Abstract reviews were performed double-blind by members of the program
 committee, then discussed and selected to build the program.
