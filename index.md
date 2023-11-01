@@ -128,6 +128,7 @@ the National Science Foundation (grant [1845576](https://www.nsf.gov/awardsearch
 and at UMass,
 the [Computational Social Science Institute](https://www.cssi.umass.edu/),
 the [Data Analytics and Computational Social Science](https://www.umass.edu/social-sciences/academics/dacss) program,
+the [Center for Data Science](https://ds.cs.umass.edu/),
 and the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/).
 
 
