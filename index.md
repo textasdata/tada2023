@@ -138,4 +138,6 @@ Other local hotels include:
  - For more details, including shuttles and many other services, see [this CICS page, "Getting to Amherst"](https://www.cics.umass.edu/grads/arriving-amherst).
 
 
+#### Parking
 
+- You can park at the Campus Center Parking Garage (<a href="https://www.google.com/maps/place/1+Campus+Center+Way,+Amherst,+MA+01003/@42.3931482,-72.5328245,17z/">1 Campus Center Way</a>). The conference will have discounted parking tickets for registered conference attendees.
