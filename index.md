@@ -2,6 +2,8 @@
 title: "TADA 2023: New Directions in Analyzing Text as Data"
 ---
 
+<a style="font-size:110%; font-weight: bold" href="assets/program.pdf">Link: Full program (pdf)</a>
+
 Conference: November 9-10, 2023 at University of Massachusetts Amherst
 
 The New Directions in Analyzing Text as Data (TADA) meeting is a leading forum for interdisciplinary research on the study of politics, society, and culture through computational analysis of documents. Recent advances in NLP have the potential to revolutionize how we study human society. But using these tools effectively, reliably, and equitably requires continuous dialog between experts across computational methods, social sciences, and the humanities. 
