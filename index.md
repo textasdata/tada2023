@@ -79,6 +79,8 @@ If your paper is being presented as a poster, there is no discussant and no pape
 
 Poster format: We recommend posters be no larger than 36 inches tall by 48 inches wide.
 
+We don't have on-site printing.  It's best to bring your poster.  Local printing options include Amherst Copy and Staples (you may need a car to access them).
+
 If you have a scheduling constraint for when to present, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdvPC3tNYyoRNL_FjVsr59e1MafcDTj_SiG8Hn_3WxlvoFyZQ/viewform?usp=sf_link).
 
 
