@@ -12,10 +12,7 @@ The New Directions in Analyzing Text as Data (TADA) meeting is a leading forum f
 
 ### Registration
 
-We have a limited number of slots available for general public registration.
 Online registration is now closed; [registration information at this link](https://umass.irisregistration.com/Form/TADA).
-
-If you're at UMass and want to informally attend, we can let you sign up through a different process.  Ask us for a pointer if you haven't received it.
 
 ### Location
 
